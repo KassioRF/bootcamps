@@ -1,6 +1,5 @@
 ## Challenge: Basic Java - Inputs and Outputs via Terminal.
 
-
 The Source code is available on:
     [./src](./src)
 
